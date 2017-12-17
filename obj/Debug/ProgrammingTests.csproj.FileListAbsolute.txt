@@ -1,0 +1,15 @@
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\ProgrammingTests.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\ProgrammingTests.pdb
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Programming.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Programming.pdb
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kpolat\kp\Programming\ProgrammingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kpolat\kp\Programming\ProgrammingTests\obj\Debug\ProgrammingTests.csprojResolveAssemblyReference.cache
+C:\Users\kpolat\kp\Programming\ProgrammingTests\obj\Debug\ProgrammingTests.csproj.CoreCompileInputs.cache
+C:\Users\kpolat\kp\Programming\ProgrammingTests\obj\Debug\ProgrammingTests.dll
+C:\Users\kpolat\kp\Programming\ProgrammingTests\obj\Debug\ProgrammingTests.pdb
